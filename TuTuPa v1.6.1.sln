@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuTuPa v1.6.1.Plugins", "TuTuPa v1.6.1.Plugins.csproj", "{7C3FF35A-A5C3-B82F-D431-00AC74EB25BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuTuPa v1.6.1", "TuTuPa v1.6.1.csproj", "{A3A815CC-8841-F7A0-8E77-20020D3BB58C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuTuPa v1.6.1.Editor.Plugins", "TuTuPa v1.6.1.Editor.Plugins.csproj", "{2D5DE2A1-4A60-CF8F-7F62-FB10FF60BE5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuTuPa v1.6.1.Editor", "TuTuPa v1.6.1.Editor.csproj", "{9FACCCBF-AAB7-7918-1BD7-D6450A01C4E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C3FF35A-A5C3-B82F-D431-00AC74EB25BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3FF35A-A5C3-B82F-D431-00AC74EB25BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3FF35A-A5C3-B82F-D431-00AC74EB25BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3FF35A-A5C3-B82F-D431-00AC74EB25BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A815CC-8841-F7A0-8E77-20020D3BB58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A815CC-8841-F7A0-8E77-20020D3BB58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A815CC-8841-F7A0-8E77-20020D3BB58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A815CC-8841-F7A0-8E77-20020D3BB58C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D5DE2A1-4A60-CF8F-7F62-FB10FF60BE5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5DE2A1-4A60-CF8F-7F62-FB10FF60BE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5DE2A1-4A60-CF8F-7F62-FB10FF60BE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5DE2A1-4A60-CF8F-7F62-FB10FF60BE5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FACCCBF-AAB7-7918-1BD7-D6450A01C4E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FACCCBF-AAB7-7918-1BD7-D6450A01C4E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FACCCBF-AAB7-7918-1BD7-D6450A01C4E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FACCCBF-AAB7-7918-1BD7-D6450A01C4E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

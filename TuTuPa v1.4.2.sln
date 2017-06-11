@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuTuPa v1.4.2.Plugins", "TuTuPa v1.4.2.Plugins.csproj", "{75B49ACE-9CF8-8D86-D22B-0060187DEC34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuTuPa v1.4.2", "TuTuPa v1.4.2.csproj", "{F7857F3F-2B06-5DDD-F002-164F4AC3054D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuTuPa v1.4.2.Editor.Plugins", "TuTuPa v1.4.2.Editor.Plugins.csproj", "{BF4FD166-B100-C553-C4F7-1EC9DF5CBDFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75B49ACE-9CF8-8D86-D22B-0060187DEC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B49ACE-9CF8-8D86-D22B-0060187DEC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B49ACE-9CF8-8D86-D22B-0060187DEC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B49ACE-9CF8-8D86-D22B-0060187DEC34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7857F3F-2B06-5DDD-F002-164F4AC3054D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7857F3F-2B06-5DDD-F002-164F4AC3054D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7857F3F-2B06-5DDD-F002-164F4AC3054D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7857F3F-2B06-5DDD-F002-164F4AC3054D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF4FD166-B100-C553-C4F7-1EC9DF5CBDFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4FD166-B100-C553-C4F7-1EC9DF5CBDFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4FD166-B100-C553-C4F7-1EC9DF5CBDFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4FD166-B100-C553-C4F7-1EC9DF5CBDFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
